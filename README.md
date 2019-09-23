@@ -1,5 +1,4 @@
 Everett Houston
-houstonseverett@gmail.com
 September 23, 2019
 
 Calculator Web App
